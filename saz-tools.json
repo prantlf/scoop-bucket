@@ -1,13 +1,13 @@
 {
-    "version": "0.0.11",
+    "version": "0.0.15",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/prantlf/saz-tools/releases/download/v0.0.11/saz-tools_0.0.11_windows_x86_64.zip",
+            "url": "https://github.com/prantlf/saz-tools/releases/download/v0.0.15/saz-tools_0.0.15_windows_x86_64.zip",
             "bin": [
                 "sazdump.exe",
                 "sazserve.exe"
             ],
-            "hash": "9534e37e33432923728c3f3f2b77d5a0afbdd21521f9feed1d6c1b56ead5fc80"
+            "hash": "68dcee92a379722487fe2fd9cf0b35058d723e735c329bdd1fd320e4493b9483"
         }
     },
     "homepage": "https://github.com/prantlf/saz-tools",
