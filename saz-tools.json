@@ -1,16 +1,16 @@
 {
-  "version": "0.0.10",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/prantlf/saz-tools/releases/download/v0.0.10/saz-tools_v0.0.10-next_windows_x86_64.zip",
-      "bin": [
-        "sazdump.exe"
-        "sazserve.exe"
-      ],
-      "hash": "0c2dc6f18c3e2b60090362de6ec85dd451091fcd8b93f897f92ef70ae3f0d09c"
-    }
-  },
-  "homepage": "https://github.com/prantlf/saz-tools",
-  "license": "MIT",
-  "description": "Parsing, dumping, viewing and analysing tools for SAZ (Fiddler) files"
+    "version": "0.0.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/prantlf/saz-tools/releases/download/v0.0.11/saz-tools_0.0.11_windows_x86_64.zip",
+            "bin": [
+                "sazdump.exe",
+                "sazserve.exe"
+            ],
+            "hash": "9534e37e33432923728c3f3f2b77d5a0afbdd21521f9feed1d6c1b56ead5fc80"
+        }
+    },
+    "homepage": "https://github.com/prantlf/saz-tools",
+    "license": "MIT",
+    "description": "Parsing, dumping, viewing and analysing tools for SAZ (Fiddler) files"
 }
